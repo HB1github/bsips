@@ -1,0 +1,12 @@
+I updated bitshares-core and didn't notice, that I have to update bitshares-ui (I could found the link after scam/hack)
+Scammer/hacker used this bug and got access over my account trough "openledger-security" scam account
+Review period begin	— Expiration time	May 9, 2019, 10:29:33 AM Proposed operations Update account data for hbscc Fee paying account	openledger-security
+Fee	5.16034 BTS
+
+Current update:
+1.11.896505519	UPDATE ACCOUNT hbscc updated their account data change 0.02529 BTS	2019-06-09 21:33:39 CEST
+
+Suggestion: restore control with weight to the public key (via concensus) -> not possible with weight (see attached)
+
+Scammer/hacker accounts involved in this action openledger-security, beos-upgrade, putler666 and huibao000
+putler666 still active!
